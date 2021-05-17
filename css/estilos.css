@@ -264,7 +264,7 @@ footer .contacto input[type='submit']:hover{
 
 @media screen and (max-width: 500px){
     header .contenido-header .titulo-header{
-        font-size:40px;
+        font-size:30px;
     }
     main .quehacemos .contenido-cajas .tarjeta{
         width: 48%;
